@@ -1,4 +1,4 @@
-# golang
+//golang
 packge main
 import _"fmt"()
 func main{
