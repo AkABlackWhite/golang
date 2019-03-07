@@ -7,5 +7,6 @@ func main() {
 fmt.Println("bara shoro")
 }
 //tanks;)
+//tanks too
 
 
