@@ -5,7 +5,7 @@ import "fmt"
 
 func main() {
 fmt.Println("bara shoro")
-  fmt.Println("R Baw")
+fmt.Println("R Baw")
 }
 //tanks;)
 //tanks too
